@@ -1,0 +1,10 @@
+git config --global user.name "singhpartap"
+git config --global user.email "babupartap48@gmail.com"
+git init
+git add assignment1.txt
+git status
+git commit -m "our important message"
+git log
+git remote add origin https://github.com/singhpartap/Assignments.git
+git push origin master
+
